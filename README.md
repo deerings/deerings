@@ -8,7 +8,7 @@
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently studying Data Science at UCSD Halıcıoğlu Data Science Institute.
-- 🌱 I’m currently learning about Spark and NLP using Python.
+- 🌱 I’m currently learning Spark and NLP using Python.
 - 📫 How to reach me: sdeering@ucsd.edu
 
 
