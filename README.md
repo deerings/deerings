@@ -8,7 +8,7 @@
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently studying Data Science at UCSD Halıcıoğlu Data Science Institute.
+- 🔭 I’m a second=-year Masters student at the UCSD Halıcıoğlu Data Science Institute.
 
 - 📫 How to reach me: sdeering@ucsd.edu
 
