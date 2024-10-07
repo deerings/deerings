@@ -8,7 +8,8 @@
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m a second-year Masters student at the UCSD Halıcıoğlu Data Science Institute.
+- 🔭 I work at Naval Health Research Center in Point Loma, CA.
+- 🧑🏻‍🎓 I’m a second-year Masters student at the UCSD Halıcıoğlu Data Science Institute.
 
 - 📫 How to reach me: sdeering@ucsd.edu
 
