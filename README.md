@@ -11,6 +11,6 @@
 - 🔭 I work at Sleep, Tactical Efficiency, and Endurance Lab (STEEL) at Naval Health Research Center in Point Loma, CA.
 - 🧑🏻‍🎓 I’m a second-year Masters student at the UCSD Halıcıoğlu Data Science Institute.
 
-- 📫 How to reach me: sdeering@ucsd.edu (school) sean.m.deering3.ctr@health.mil (work).
+- 📫 How to reach me: sdeering@ucsd.edu
 
 
