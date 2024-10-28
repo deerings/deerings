@@ -13,7 +13,8 @@
 - 🧑🏻‍🎓 I’m a second-year Masters student at the UCSD Halıcıoğlu Data Science Institute.
 - 🌱 This quarter, I'm learning about data mining on the web (DSC256R) and data visualization (DSC209R).
 
-- Want to see what I've been up to lately? Check out <a href="https://deerings.github.io/my-portfolio" target="_blank">my portfolio</a>.
+- Want to see what I've been up to? Check out [my portfolio](https://deerings.github.io/my-portfolio).
+
 
 
 
