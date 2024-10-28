@@ -11,7 +11,7 @@
 -->
 - 🔭 I work at Sleep, Tactical Efficiency, and Endurance Lab (STEEL) at Naval Health Research Center in Point Loma, CA.
 - 🧑🏻‍🎓 I’m a second-year Masters student at the UCSD Halıcıoğlu Data Science Institute.
-- 🌱 I'm currently learning about data mining on the web and data visualization.
+- 🌱 This quarter, I'm currently learning about data mining on the web (DSC256R) and data visualization (DSC209R).
 
 
 
