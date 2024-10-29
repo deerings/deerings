@@ -9,7 +9,7 @@
 - 📫 How to reach me: 
 - ⚡ Fun fact: ...
 -->
-- 🔭 I work at Naval Health Research Center in the Sleep, Tactical Efficiency, and Endurance Lab (STEEL) in Point Loma, CA.
+- 🔭 I work at Naval Health Research Center in the Sleep, Tactical Efficiency, and Endurance Lab (STEEL).
 - 🧑🏻‍🎓 I’m also a Masters student at UCSD Halıcıoğlu Data Science Institute.
 - 🌱 This quarter I'm learning all about data mining on the web (DSC256R) and data visualization (DSC209R).
 
