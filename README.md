@@ -9,11 +9,11 @@
 - 📫 How to reach me: 
 - ⚡ Fun fact: ...
 -->
-- 🔭 I work at Sleep, Tactical Efficiency, and Endurance Lab (STEEL) at Naval Health Research Center in Point Loma, CA.
-- 🧑🏻‍🎓 I’m a second-year Masters student at the UCSD Halıcıoğlu Data Science Institute.
-- 🌱 This quarter, I'm learning about data mining on the web (DSC256R) and data visualization (DSC209R).
+- 🔭 I work at Naval Health Research Center in the Sleep, Tactical Efficiency, and Endurance Lab (STEEL) in Point Loma, CA.
+- 🧑🏻‍🎓 I’m also a Masters student at UCSD Halıcıoğlu Data Science Institute.
+- 🌱 This quarter I'm learning all about data mining on the web (DSC256R) and data visualization (DSC209R).
 
-- Want to see what I've been up to? Check out [my portfolio](https://deerings.github.io/my-portfolio).
+- Want to see what I've been up to lately? Check out [my portfolio](https://deerings.github.io/my-portfolio).
 
 
 
