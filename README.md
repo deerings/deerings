@@ -11,7 +11,7 @@
 -->
 - 🔭 I work at Naval Health Research Center in the Sleep, Tactical Efficiency, and Endurance Lab (STEEL).
 - 🧑🏻‍🎓 I’m also a Masters student at UCSD Halıcıoğlu Data Science Institute.
-- 🌱 This quarter I'm learning all about data mining on the web (DSC256R) and data visualization (DSC209R).
+- 🌱 This quarter I'm learning about Human-Centered AI (DSC266R) and completing my Capstone Project (DSC288R).
 
 - 💬 Want to see what I've been up to lately? Check out [my portfolio](https://deerings.github.io/my-portfolio).
 
