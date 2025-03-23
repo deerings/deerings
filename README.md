@@ -10,8 +10,7 @@
 - ⚡ Fun fact: ...
 -->
 - 🔭 I work at Naval Health Research Center in the Warfighter Performance Department.
-- 🧑🏻‍🎓 I’m a second year Masters student at UCSD Halıcıoğlu Data Science Institute.
-- 🌱 This quarter I'm learning about Human-Centered AI (DSC266R) and completing my Capstone Project (DSC288R).
+- 🧑🏻‍🎓 I just finished my Masters degree at UCSD Halıcıoğlu Data Science Institute (3/2025).
 
 - 💬 Want to see what I've been up to lately? Check out [my portfolio](https://deerings.github.io/my-portfolio).
 
